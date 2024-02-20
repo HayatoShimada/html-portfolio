@@ -51,7 +51,6 @@ h3{
     display: block;
     text-align: justify;
     margin-bottom: 20px;
-    width: 100%;
 }
 
 @media (max-width: 600px) {
